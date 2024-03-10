@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Education:
+:books: ## Education:
 Currently undergraduate at [DEPARTMENT OF INFORMATICS AND TELECOMMUNICATIONS](https://www.di.uoa.gr/en)
 
 ## Statistics
