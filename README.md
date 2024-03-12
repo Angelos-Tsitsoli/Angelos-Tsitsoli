@@ -4,9 +4,9 @@
 Currently undergraduate at [DEPARTMENT OF INFORMATICS AND TELECOMMUNICATIONS](https://www.di.uoa.gr/en)
 
 ## :bar_chart: Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelos-Tsitsoli&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelos-Tsitsoli&show_icons=true&theme=radical)    ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-Tsitsoli&layout=compact&theme=blue-green)
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-Tsitsoli&layout=compact&theme=blue-green)
+
 <!--
 **Angelos-Tsitsoli/Angelos-Tsitsoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
