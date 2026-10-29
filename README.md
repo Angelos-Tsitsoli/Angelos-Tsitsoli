@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  ## :books: Education:
-Graduated from [DEPARTMENT OF INFORMATICS AND TELECOMMUNICATIONS](https://www.di.uoa.gr/en)
+Graduated from [Department Of Informatics And Telecommunications](https://www.di.uoa.gr/en)
 
 <!--
 **Angelos-Tsitsoli/Angelos-Tsitsoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
